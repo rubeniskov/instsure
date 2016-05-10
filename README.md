@@ -3,6 +3,7 @@
 [![Build Status][travis-img]][travis-url]
 [![License][license-img]][license-url]
 [![Coverage Status][coverage-img]][coverage-url]
+[![Version][version-img]][version-url]
 
 Instsure is a function wrapper to ensure the object initialitation, preventing wrong callings to the constructor function without right context.
 
@@ -69,6 +70,7 @@ To use, add the `require` node module or use browserify if you want to use in a 
         console.log(instance instanceof ConstructorWrapFoo); // true
 ```
 
+https://badge.fury.io/js/instsure.svg
 
 [![WTF][wtfpl-img]][wtfpl-url]
 
@@ -85,6 +87,9 @@ To use, add the `require` node module or use browserify if you want to use in a 
 
 [coverage-url]: https://codecov.io/github/rubeniskov/instsure
 [coverage-img]: https://img.shields.io/codecov/c/github/rubeniskov/instsure.svg?style=flat-square
+
+[version-url]: http://instsure.rubeniskov.com
+[version-img]: https://badge.fury.io/js/instsure.svg?style=flat-square
 
 [wtfpl-url]: http://www.wtfpl.net/
 [wtfpl-img]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl.svg
