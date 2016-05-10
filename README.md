@@ -1,12 +1,12 @@
 # Instsure
 
-Instsure is a function wrapper to ensure the object initialitation, preventing wrong callings to the constructor function without right context.
-
 [![Build Status][travis-img]][travis-url]
 [![License][license-img]][license-url]
 [![Coverage Status][coverage-img]][coverage-url]
-[![NPM][npm-img]][npm-url]
 
+Instsure is a function wrapper to ensure the object initialitation, preventing wrong callings to the constructor function without right context.
+
+[![NPM][npm-img]][npm-url]
 
 Installation
 ============
