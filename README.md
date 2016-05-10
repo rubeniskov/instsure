@@ -70,6 +70,7 @@ To use, add the `require` node module or use browserify if you want to use in a 
 ```
 
 
+[![WTF][wtfpl-img]][wtfpl-url]
 
 [site-url]: https://github.com/rubeniskov/instsure
 
@@ -79,8 +80,11 @@ To use, add the `require` node module or use browserify if you want to use in a 
 [travis-url]: https://travis-ci.org/rubeniskov/instsure?branch=master
 [travis-img]: https://travis-ci.org/rubeniskov/instsure.svg?style=flat-square
 
-[license-url]: LICENSE.md
-[license-img]: http://img.shields.io/npm/l/sassdoc.svg?style=flat-square
+[license-url]: LICENSE
+[license-img]: https://img.shields.io/badge/license-WTFPL-blue.svg?style=flat-square
 
-[coverage-img]: https://coveralls.io/repos/rubeniskov/instsure/badge.svg?branch=master&service=github
 [coverage-url]: https://coveralls.io/github/rubeniskov/instsure?branch=master
+[coverage-img]: https://coveralls.io/repos/rubeniskov/instsure/badge.svg?branch=master&service=github
+
+[wtfpl-url]: http://www.wtfpl.net/
+[wtfpl-img]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl.svg
