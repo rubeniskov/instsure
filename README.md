@@ -83,8 +83,8 @@ To use, add the `require` node module or use browserify if you want to use in a 
 [license-url]: LICENSE
 [license-img]: https://img.shields.io/badge/license-WTFPL-blue.svg?style=flat-square
 
-[coverage-url]: https://coveralls.io/github/rubeniskov/instsure?branch=master
-[coverage-img]: https://coveralls.io/repos/rubeniskov/instsure/badge.svg?branch=master&service=github
+[coverage-url]: https://codecov.io/github/rubeniskov/instsure
+[coverage-img]: https://img.shields.io/codecov/c/github/rubeniskov/instsure.svg?style=flat-square
 
 [wtfpl-url]: http://www.wtfpl.net/
 [wtfpl-img]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl.svg
