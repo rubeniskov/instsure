@@ -5,6 +5,7 @@ node_js:
   - "0.12"
   - "iojs"
 install:
+  - npm install -g codecov
   - npm install
 after_success:
-  - bash <(curl -s https://codecov.io/bash)
+  - codecov
