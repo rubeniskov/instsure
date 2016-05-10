@@ -70,8 +70,6 @@ To use, add the `require` node module or use browserify if you want to use in a 
         console.log(instance instanceof ConstructorWrapFoo); // true
 ```
 
-https://badge.fury.io/js/instsure.svg
-
 [![WTF][wtfpl-img]][wtfpl-url]
 
 [site-url]: https://github.com/rubeniskov/instsure
