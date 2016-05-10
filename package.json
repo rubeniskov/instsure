@@ -1,0 +1,36 @@
+{
+  "name": "instsure",
+  "version": "1.0.0",
+  "description": "Instsure is a function wrapper to ensure the object initialitation, preventing wrong callings to the constructor function without right context.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubeniskov/instsure.git"
+  },
+  "author": {
+    "name": "Rubén López Gómez",
+    "email": "me@rubeniskov.com",
+    "url": "https://twitter.com/Rubeniskov"
+  },
+  "licenses": [
+    {
+      "type": "WTFPL",
+      "url": "https://github.com/rubeniskov/instsure/blob/master/LICENSE.md"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/rubeniskov/instsure/issues"
+  },
+  "homepage": "https://github.com/rubeniskov/instsure#readme"
+}
