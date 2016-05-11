@@ -4,6 +4,7 @@
 [![License][license-img]][license-url]
 [![Coverage Status][coverage-img]][coverage-url]
 [![Version][version-img]][site-url]
+[![Node][node-img]][site-url]
 [![Downloads][downloads-img]][site-url]
 
 Instsure is a function wrapper to ensure the object initialitation, preventing wrong callings to the constructor function without right context.
@@ -89,6 +90,7 @@ To use, add the `require` node module or use browserify if you want to use in a 
 
 [version-img]: https://img.shields.io/npm/v/instsure.svg?style=flat-square&maxAge=2592000
 [downloads-img]: https://img.shields.io/npm/dm/instsure.svg?style=flat-square&maxAge=2592000
+[node-img]: https://img.shields.io/node/v/instsure.svg?style=flat-square
 
 [wtfpl-url]: http://www.wtfpl.net/
 [wtfpl-img]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl.svg
