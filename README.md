@@ -3,7 +3,8 @@
 [![Build Status][travis-img]][travis-url]
 [![License][license-img]][license-url]
 [![Coverage Status][coverage-img]][coverage-url]
-[![Version][version-img]][version-url]
+[![Version][version-img]][site-url]
+[![Downloads][downloads-img]][site-url]
 
 Instsure is a function wrapper to ensure the object initialitation, preventing wrong callings to the constructor function without right context.
 
@@ -72,7 +73,7 @@ To use, add the `require` node module or use browserify if you want to use in a 
 
 [![WTF][wtfpl-img]][wtfpl-url]
 
-[site-url]: https://github.com/rubeniskov/instsure
+[site-url]: http://instsure.rubeniskov.com
 
 [npm-url]: https://www.npmjs.com/package/instsure
 [npm-img]: https://nodei.co/npm/instsure.png?downloads=true
@@ -86,8 +87,8 @@ To use, add the `require` node module or use browserify if you want to use in a 
 [coverage-url]: https://codecov.io/github/rubeniskov/instsure
 [coverage-img]: https://img.shields.io/codecov/c/github/rubeniskov/instsure.svg?style=flat-square
 
-[version-url]: http://instsure.rubeniskov.com
-[version-img]: https://badge.fury.io/js/instsure.svg?style=flat-square
+[version-img]: https://img.shields.io/npm/v/instsure.svg?style=flat-square&maxAge=2592000
+[downloads-img]: https://img.shields.io/npm/dm/instsure.svg?style=flat-square&maxAge=2592000
 
 [wtfpl-url]: http://www.wtfpl.net/
 [wtfpl-img]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl.svg
