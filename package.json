@@ -1,6 +1,6 @@
 {
   "name": "instsure",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Instsure is a function wrapper to ensure the object initialitation, preventing wrong callings to the constructor function without right context.",
   "main": "index.js",
   "engines" : {
