@@ -1,15 +1,17 @@
 # Instsure
 
-[![Build Status][travis-img]][travis-url]
-[![License][license-img]][license-url]
-[![Coverage Status][coverage-img]][coverage-url]
-[![Version][version-img]][site-url]
-[![Node][node-img]][site-url]
-[![Downloads][downloads-img]][site-url]
+[![Build Status][travis-badge]][travis-url]
+[![Coverage Status][coverage-badge]][coverage-url]
+[![Slack Status][slack-badge]][slack-url]
+[![Version][version-badge]][npm-url]
+[![Downloads][downloads-badge]][npm-url]
+[![Node][node-badge]][npm-url]
+[![License][license-badge]][license-url]
 
-Instsure is a function wrapper to ensure the object initialitation, preventing wrong callings to the constructor function without right context.
+[Instsure][site-url] is a function wrapper to ensure the object initialitation, preventing wrong callings to the constructor function without right context.
 
 [![NPM][npm-img]][npm-url]
+[![GRID][coverage-img]][coverage-url]
 
 Installation
 ============
@@ -80,17 +82,22 @@ To use, add the `require` node module or use browserify if you want to use in a 
 [npm-img]: https://nodei.co/npm/instsure.png?downloads=true
 
 [travis-url]: https://travis-ci.org/rubeniskov/instsure?branch=master
-[travis-img]: https://travis-ci.org/rubeniskov/instsure.svg?style=flat-square
+[travis-badge]: https://travis-ci.org/rubeniskov/instsure.svg?style=flat-square
 
 [license-url]: LICENSE
-[license-img]: https://img.shields.io/badge/license-WTFPL-blue.svg?style=flat-square
+[license-badge]: https://img.shields.io/badge/license-WTFPL-blue.svg?style=flat-square
 
 [coverage-url]: https://codecov.io/github/rubeniskov/instsure
-[coverage-img]: https://img.shields.io/codecov/c/github/rubeniskov/instsure.svg?style=flat-square
+[coverage-img]: https://codecov.io/gh/rubeniskov/instsure/branch/master/graphs/icicle.svg?width=400&height=72
+[coverage-badge]: https://img.shields.io/codecov/c/github/rubeniskov/instsure.svg?style=flat-square
 
-[version-img]: https://img.shields.io/npm/v/instsure.svg?style=flat-square&maxAge=2592000
-[downloads-img]: https://img.shields.io/npm/dm/instsure.svg?style=flat-square&maxAge=2592000
-[node-img]: https://img.shields.io/node/v/instsure.svg?style=flat-square
+[slack-url]: http://slack.rubeniskov.com/
+[slack-badge]: http://slack.rubeniskov.com/badge.svg?style=flat-square&maxAge=2592000
+
+[version-badge]: https://img.shields.io/npm/v/instsure.svg?style=flat-square&maxAge=2592000
+[downloads-badge]: https://img.shields.io/npm/dm/instsure.svg?style=flat-square&maxAge=2592000
+[node-badge]: https://img.shields.io/node/v/instsure.svg?style=flat-square
+
 
 [wtfpl-url]: http://www.wtfpl.net/
 [wtfpl-img]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl.svg
