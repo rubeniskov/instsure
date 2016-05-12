@@ -88,7 +88,7 @@ To use, add the `require` node module or use browserify if you want to use in a 
 [license-badge]: https://img.shields.io/badge/license-WTFPL-blue.svg?style=flat-square
 
 [coverage-url]: https://codecov.io/github/rubeniskov/instsure
-[coverage-img]: https://codecov.io/gh/rubeniskov/instsure/branch/master/graphs/icicle.svg
+[coverage-img]: https://codecov.io/gh/rubeniskov/instsure/branch/master/graphs/icicle.svg?width=400&height=72
 [coverage-badge]: https://img.shields.io/codecov/c/github/rubeniskov/instsure.svg?style=flat-square
 
 [slack-url]: http://slack.rubeniskov.com/
