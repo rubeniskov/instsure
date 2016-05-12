@@ -8,6 +8,9 @@
 [![Node][node-badge]][npm-url]
 [![License][license-badge]][license-url]
 
+[![Issues Open][issues-open-badge]][issues-url]
+[![Issue Resolution][issues-reso-badge]][issues-url]
+
 [Instsure][site-url] is a function wrapper to ensure the object initialitation, preventing wrong callings to the constructor function without right context.
 
 [![NPM][npm-img]][npm-url]
@@ -98,6 +101,9 @@ To use, add the `require` node module or use browserify if you want to use in a 
 [downloads-badge]: https://img.shields.io/npm/dm/instsure.svg?style=flat-square&maxAge=2592000
 [node-badge]: https://img.shields.io/node/v/instsure.svg?style=flat-square
 
+[issues-url]: https://github.com/rubeniskov/instsure/issues
+[issues-open-badge]: http://isitmaintained.com/badge/open/rubeniskov/instsure.svg
+[issues-reso-badge]: http://isitmaintained.com/badge/resolution/rubeniskov/instsure.svg
 
 [wtfpl-url]: http://www.wtfpl.net/
 [wtfpl-img]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl.svg
