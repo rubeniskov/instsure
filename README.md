@@ -11,6 +11,7 @@
 [Instsure][site-url] is a function wrapper to ensure the object initialitation, preventing wrong callings to the constructor function without right context.
 
 [![NPM][npm-img]][npm-url]
+[![GRID][coverage-img]][coverage-url]
 
 Installation
 ============
@@ -87,6 +88,7 @@ To use, add the `require` node module or use browserify if you want to use in a 
 [license-badge]: https://img.shields.io/badge/license-WTFPL-blue.svg?style=flat-square
 
 [coverage-url]: https://codecov.io/github/rubeniskov/instsure
+[coverage-img]: https://codecov.io/gh/rubeniskov/instsure/branch/master/graphs/icicle.svg
 [coverage-badge]: https://img.shields.io/codecov/c/github/rubeniskov/instsure.svg?style=flat-square
 
 [slack-url]: http://slack.rubeniskov.com/
